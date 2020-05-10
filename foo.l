@@ -5,6 +5,8 @@
 
 (de bar (X Y) (list Y X))
 
+(de baz () (1 2 3))
+
 (setq "PROMPT" "What is your name?")
 (setq "GREETING" "Hello")
 
